@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "215489521127",
+    "project_id": "replicate-dd588",
+    "storage_bucket": "replicate-dd588.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215489521127:android:586806453a39a9df240942",
+        "android_client_info": {
+          "package_name": "com.raghav.replicate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "215489521127-d4r0eoq7v44shih3sparoso6odk1t2rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1Rmhw-jHxqQxFtEKtArXIA9NOu-xKEbE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "215489521127-d4r0eoq7v44shih3sparoso6odk1t2rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
